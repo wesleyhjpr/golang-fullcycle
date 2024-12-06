@@ -2,6 +2,8 @@
 
 Este repositório contém um exemplo de como construir e executar uma imagem Docker.
 
+[repositório docker hub](https://hub.docker.com/r/wesleyhjpr/fullcycle)
+
 ## Requisitos
 
 Antes de começar, você precisa ter o Docker instalado em seu sistema. Caso não tenha, siga as instruções de instalação no site oficial do Docker:
